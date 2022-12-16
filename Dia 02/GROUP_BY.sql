@@ -16,3 +16,7 @@ SELECT
 FROM silver_olist.cliente
 
 GROUP BY descUF 
+
+-- COMMAND ----------
+
+
